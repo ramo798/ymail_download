@@ -1,6 +1,6 @@
 {
-  "name": "HELLO WORLD",
-  "description": "chrome拡張機能の基礎",
+  "name": "Y_MAIL DOWNLOADER",
+  "description": "yahoo mail downloader",
   "version": "1.0",
   "manifest_version": 3,
   "action": {
